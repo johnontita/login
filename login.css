@@ -1,0 +1,99 @@
+*{
+    margin:0;
+    box-sizing:border-box;
+    padding:0;
+    
+}
+.navbar{
+    background-color:lightgreen ;
+    display: flex;
+    padding-left: 10px;
+    justify-content:space-evenly;
+    height: 50px;
+    align-items: center;
+}
+.hm{
+    
+    display: flex;
+    font-size: larger;
+    outline-style:none;
+    text-decoration: none;
+    color: black;
+
+}
+.adm{
+    display: flex;
+    font-size: 20px;
+    padding-left:30%;
+    text-decoration: none;
+    color: black;
+    align-items:center;
+}
+button{
+    display: flex;
+    background-color: aqua;
+    border-radius: 8px;
+    font-size: 20px;
+    align-items: center;
+    margin-left:30%;
+    padding:10px;
+
+    
+}
+section{
+    background-color: rgb(250, 235, 215);
+    position:absolute;
+    height: 90vh;
+    width: 50%;
+    top:20px;
+    bottom:0px;
+    margin-top: 35px;
+    margin-left: 25%;
+}
+.para1{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.pass{
+    font-size:15px;
+    margin-top:10px;
+    margin-left: 60px;
+    padding: 10px;
+}
+.email{
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 60px;
+    padding: 10px;
+}
+.gender{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 60px;
+    align-items: center;
+    
+
+}
+.sbm{
+    background-color: chartreuse;
+    padding:10px;
+    margin-left:60px ;
+    width:15%;
+    margin-top: 10px;
+    border-radius: 6px;
+    border: none;
+    font-size: 19px;
+}
+a{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.info{
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+   
